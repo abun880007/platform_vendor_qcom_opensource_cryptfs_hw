@@ -1,0 +1,5 @@
+[gerrit]
+host=review.blissroms.com
+port=29418
+project=platform_vendor_qcom_opensource_cryptfs_hw.git
+defaultbranch=q
